@@ -1,4 +1,5 @@
 # uk-interest-rate-project
+![image](https://user-images.githubusercontent.com/128179012/229879220-5eee3670-5edd-45b8-810b-c79d12aff9d7.png)
 
 ## Executive Summary
 
